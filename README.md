@@ -7,6 +7,12 @@
    Nurbek Po'latov
    
    https://user-images.githubusercontent.com/88614410/144745502-4d4f497a-ea4b-4c5d-ba1e-d8b053fc147c.mp4
+   
+   <video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
 
 
 
