@@ -3,5 +3,5 @@
 
 ## Jamoa nomi:Nurbek
 
-Jamoa a'zolari:
+## Jamoa a'zolari:
     *Nurbek Po'latov
