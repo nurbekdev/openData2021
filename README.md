@@ -5,6 +5,7 @@
 
 ## Jamoa a'zolari:
    Nurbek Po'latov
+   https://user-images.githubusercontent.com/88614410/144745502-4d4f497a-ea4b-4c5d-ba1e-d8b053fc147c.mp4
 
-https://user-images.githubusercontent.com/88614410/144745475-13d22c08-45df-4496-b269-1060595a0028.mp4
+
 
