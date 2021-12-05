@@ -5,5 +5,6 @@
 
 ## Jamoa a'zolari:
    Nurbek Po'latov
-   https://www.instagram.com/tv/CV4mpvSl1Rd/?utm_source=ig_web_copy_link
+
+https://user-images.githubusercontent.com/88614410/144745475-13d22c08-45df-4496-b269-1060595a0028.mp4
 
