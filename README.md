@@ -5,3 +5,5 @@
 
 ## Jamoa a'zolari:
    Nurbek Po'latov
+   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurbekdev&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/nurbekdev/github-readme-stats)
